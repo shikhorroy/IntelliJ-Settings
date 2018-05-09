@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="how to's" type="Markdown" />
+      <mapping pattern="Movie List" type="Markdown" />
     </extensionMap>
   </component>
 </application>
