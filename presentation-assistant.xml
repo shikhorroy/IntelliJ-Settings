@@ -2,5 +2,6 @@
   <component name="PresentationAssistant">
     <option name="alternativeKeymap" />
     <option name="fontSize" value="15" />
+    <option name="showActionDescriptions" value="false" />
   </component>
 </application>
