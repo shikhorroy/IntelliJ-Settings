@@ -4,6 +4,7 @@
       <mapping pattern="regular-expression.md" type="Markdown" />
       <mapping pattern="how to's" type="Markdown" />
       <mapping pattern="Movie List" type="Markdown" />
+      <mapping ext="out" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
